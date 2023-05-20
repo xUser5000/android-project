@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "831259214374",
+    "project_id": "book-app-62590",
+    "storage_bucket": "book-app-62590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831259214374:android:e48e38ddfc335fbec55ce7",
+        "android_client_info": {
+          "package_name": "com.example.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831259214374-vlqragf2i9m8ucglot0su8ghtumlsc2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs3xWFbQvUAVqDE7THTwItakcqZoqUuOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831259214374-vlqragf2i9m8ucglot0su8ghtumlsc2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831259214374:android:ec74884c99ba11f5c55ce7",
+        "android_client_info": {
+          "package_name": "com.exmaple.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831259214374-vlqragf2i9m8ucglot0su8ghtumlsc2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs3xWFbQvUAVqDE7THTwItakcqZoqUuOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831259214374-vlqragf2i9m8ucglot0su8ghtumlsc2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
